@@ -1,0 +1,27 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "first node project",
+  "main": "Server.js",
+  "dependencies": {
+    "@types/node": "^10.5.3",
+    "express": "^4.16.3",
+    "nodemon": "^1.18.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Ravi Teja",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/poosarla/firstnode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/poosarla/firstnode/issues"
+  },
+  "homepage": "https://github.com/poosarla/firstnode#readme"
+}
